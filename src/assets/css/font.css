@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "XingKai";
+    src: url('../fonts/xingkai.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "ShuJu";
+    src: url('../fonts/shuju.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "titlefont";
+    src: url('../fonts/老屋手迹.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Shouji";
+    src: url('../fonts/老屋手迹.ttf');
+    font-weight: normal;
+    font-style: normal;
+}@font-face {
+    font-family: "Xiaoyao";
+    src: url('../fonts/逍遥行书.ttf');
+    font-weight: normal;
+    font-style: normal;
+}@font-face {
+    font-family: "Fengyun";
+    src: url('../fonts/字灵风云手书.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -19,101 +19,200 @@ export default {
     return {
       msg: 'Welcome to Your Vue.js App',
       worddata: [
-        {
-          name: "十九大精神",
-          value: 15000
-        },
-        {
-          name: "两学一做",
-          value: 10081
-        }, {
-          name: "中华民族",
-          value: 9386
-        },
-        {
-          name: "马克思主义",
-          value: 7500
-        },
-        {
-          name: "民族复兴",
-          value: 7500
-        },
-        {
-          name: "社会主义制度",
-          value: 6500
-        },
-        {
-          name: "国防白皮书",
-          value: 6500
-        },
-        {
-          name: "创新",
-          value: 6000
-        },
-        {
-          name: "民主革命",
-          value: 4500
-        },
-        {
-          name: "文化强国",
-          value: 3800
-        },
-        {
-          name: "国家主权",
-          value: 3000
-        },
-        {
-          name: "伟大复兴",
-          value: 2500
-        },
-        {
-          name: "领土完整",
-          value: 2300
-        },
-        {
-          name: "安全",
-          value: 2000
-        },
-        {
-          name: "从严治党",
-          value: 1900
-        },
-        {
-          name: "现代化经济体系",
-          value: 1800
-        },
-        {
-          name: "国防动员",
-          value: 1700
-        },
-        {
-          name: "信息化战争",
-          value: 1600
-        },
-        {
-          name: "局部战争",
-          value: 1500
-        },
-        {
-          name: "教育",
-          value: 1200
-        },
-        {
-          name: "中国梦",
-          value: 1100
-        },
-        {
-          name: "孙子兵法",
-          value: 900
-        },
-        {
-          name: "一国两制",
-          value: 800
-        },
-        {
-          name: "特色社会主义思想",
-          value: 700
-        },
+        { name: "铜", value: 189 },
+        { name: "青花", value: 167 },
+        { name: "釉", value: 130 },
+        { name: "瓷", value: 118 },
+        { name: "饰", value: 109 },
+        { name: "圈足", value: 105 },
+        { name: "通体", value: 99 },
+        { name: "纹饰", value: 94 },
+        { name: "清乾隆", value: 83 },
+        { name: "印", value: 81 },
+        { name: "足", value: 74 },
+        { name: "白玉", value: 74 },
+        { name: "纸本", value: 74 },
+        { name: "腹部", value: 73 },
+        { name: "花卉", value: 71 },
+        { name: "年制", value: 70 },
+        { name: "造型", value: 67 },
+        { name: "碗", value: 63 },
+        { name: "款", value: 63 },
+        { name: "器", value: 57 },
+        { name: "口", value: 56 },
+        { name: "瓶", value: 52 },
+        { name: "圆形", value: 50 },
+        { name: "长方形", value: 49 },
+        { name: "龙纹", value: 48 },
+        { name: "鎏金", value: 48 },
+        { name: "盘", value: 47 },
+        { name: "浮雕", value: 47 },
+        { name: "清朝", value: 45 },
+        { name: "钤", value: 45 },
+        { name: "楷书", value: 44 },
+        { name: "外壁", value: 44 },
+        { name: "六字", value: 44 },
+        { name: "开光", value: 44 },
+        { name: "颈", value: 44 },
+        { name: "耳", value: 44 },
+        { name: "山水", value: 44 },
+        { name: "清雍正", value: 43 },
+        { name: "细腻", value: 42 },
+        { name: "敞口", value: 42 },
+        { name: "寓意", value: 42 },
+        { name: "雕", value: 41 },
+        { name: "青玉", value: 41 },
+        { name: "清康熙", value: 40 },
+        { name: "平底", value: 40 },
+        { name: "大清", value: 40 },
+        { name: "字", value: 40 },
+        { name: "图", value: 40 },
+        { name: "宋", value: 40 },
+        { name: "香炉", value: 40 },
+        { name: "刻", value: 39 },
+        { name: "底部", value: 39 },
+        { name: "厚", value: 39 },
+        { name: "刻有", value: 39 },
+        { name: "生动", value: 38 },
+        { name: "篆书", value: 38 },
+        { name: "白", value: 38 },
+        { name: "图案", value: 37 },
+        { name: "螭", value: 37 },
+        { name: "乾隆", value: 36 },
+        { name: "直径", value: 36 },
+        { name: "文物", value: 36 },
+        { name: "新石器", value: 36 },
+        { name: "时代", value: 36 },
+        { name: "弦", value: 36 },
+        { name: "纵", value: 36 },
+        { name: "绢本", value: 36 },
+        { name: "设色", value: 36 },
+        { name: "绘", value: 35 },
+        { name: "两侧", value: 35 },
+        { name: "横", value: 35 },
+        { name: "砚", value: 34 },
+        { name: "陶", value: 34 },
+        { name: "鼓腹", value: 34 },
+        { name: "象牙", value: 34 },
+        { name: "不", value: 33 },
+        { name: "珐琅", value: 33 },
+        { name: "嵌", value: 32 },
+        { name: "元", value: 32 },
+        { name: "莲花", value: 32 },
+        { name: "胎体", value: 32 },
+        { name: "地", value: 32 },
+        { name: "至", value: 32 },
+        { name: "均", value: 32 },
+        { name: "帖", value: 32 },
+        { name: "中堂", value: 32 },
+        { name: "青釉", value: 32 },
+        { name: "双", value: 31 },
+        { name: "铭文", value: 31 },
+        { name: "直口", value: 31 },
+        { name: "深腹", value: 31 },
+        { name: "画", value: 31 },
+        { name: "线条", value: 31 },
+        { name: "玉", value: 31 },
+        { name: "装饰", value: 31 },
+        { name: "下", value: 31 },
+        { name: "了", value: 31 },
+        { name: "腹径", value: 31 },
+        { name: "文化", value: 31 },
+        { name: "行书", value: 30 },
+        { name: "出", value: 30 },
+        { name: "腹", value: 30 },
+        { name: "折枝", value: 29 },
+        { name: "缠枝莲纹", value: 29 },
+        { name: "肩部", value: 29 },
+        { name: "盖", value: 29 },
+        { name: "透雕", value: 29 },
+        { name: "出版社", value: 29 },
+        { name: "正面", value: 29 },
+        { name: "颈部", value: 29 },
+        { name: "由", value: 28 },
+        { name: "内外", value: 28 },
+        { name: "三", value: 28 },
+        { name: "彩绘", value: 28 },
+        { name: "肩", value: 28 },
+        { name: "双圈", value: 28 },
+        { name: "规整", value: 28 },
+        { name: "页", value: 28 },
+        { name: "雕刻", value: 28 },
+        { name: "漆", value: 28 },
+        { name: "黄玉", value: 28 },
+        { name: "光亮", value: 28 },
+        { name: "朱", value: 28 },
+        { name: "施", value: 27 },
+        { name: "釉色", value: 27 },
+        { name: "中心", value: 27 },
+        { name: "莹润", value: 27 },
+        { name: "仿", value: 27 },
+        { name: "腹下", value: 26 },
+        { name: "器身", value: 26 },
+        { name: "状", value: 26 },
+        { name: "流畅", value: 26 },
+        { name: "部分", value: 26 },
+        { name: "精细", value: 26 },
+        { name: "民国", value: 26 },
+        { name: "编", value: 26 },
+        { name: "明朝", value: 25 },
+        { name: "黑漆", value: 25 },
+        { name: "吉祥", value: 25 },
+        { name: "回纹", value: 24 },
+        { name: "纹碗", value: 24 },
+        { name: "明代", value: 24 },
+        { name: "第", value: 24 },
+        { name: "整器", value: 24 },
+        { name: "釉面", value: 24 },
+        { name: "明宣德", value: 24 },
+        { name: "花纹", value: 23 },
+        { name: "对称", value: 23 },
+        { name: "卷", value: 23 },
+        { name: "云头", value: 23 },
+        { name: "雕琢", value: 23 },
+        { name: "两", value: 23 },
+        { name: "山石", value: 23 },
+        { name: "色泽", value: 23 },
+        { name: "得", value: 23 },
+        { name: "大明", value: 23 },
+        { name: "式", value: 22 },
+        { name: "制作", value: 22 },
+        { name: "白釉", value: 22 },
+        { name: "资料", value: 22 },
+        { name: "胎质", value: 22 },
+        { name: "着", value: 22 },
+        { name: "带", value: 22 },
+        { name: "清至", value: 22 },
+        { name: "方形", value: 21 },
+        { name: "牡丹", value: 21 },
+        { name: "撇", value: 21 },
+        { name: "兽面", value: 21 },
+        { name: "并", value: 21 },
+        { name: "背面", value: 21 },
+        { name: "梅花", value: 21 },
+        { name: "较", value: 21 },
+        { name: "白文", value: 21 },
+        { name: "玉质", value: 21 },
+        { name: "明嘉靖", value: 21 },
+        { name: "上部", value: 20 },
+        { name: "短颈", value: 20 },
+        { name: "工艺", value: 20 },
+        { name: "中间", value: 20 },
+        { name: "分别", value: 20 },
+        { name: "童子", value: 20 },
+        { name: "中部", value: 20 },
+        { name: "露胎", value: 20 },
+        { name: "号", value: 20 },
+        { name: "阴刻", value: 20 },
+        { name: "洗", value: 20 },
+        { name: "圆雕", value: 20 },
+        { name: "发表", value: 20 },
+        { name: "之一", value: 20 },
+        { name: "佛像", value: 20 },
+        { name: "葡萄", value: 20 },
+        { name: "釉质", value: 20 },
+        { name: "粉彩", value: 20 },
+        { name: "施白", value: 20 }
       ]
     }
   },
@@ -154,24 +253,24 @@ export default {
             textStyle: {
               fontFamily: 'Xiaoyao',
               fontWeight: 'bold',
-                color: function () {
-                  return (
-                    "rgb(" +
-                    Math.round(Math.random() * 255) +
-                    ", " +
-                    Math.round(Math.random() * 255) +
-                    ", " +
-                    Math.round(Math.random() * 255) +
-                    ")"
-                  );
-                }
-              
+              color: function () {
+                return (
+                  "rgb(" +
+                  Math.round(Math.random() * 255) +
+                  ", " +
+                  Math.round(Math.random() * 255) +
+                  ", " +
+                  Math.round(Math.random() * 255) +
+                  ")"
+                );
+              }
+
             },
             //位置相关设置
             // Folllowing left/top/width/height/right/bottom are used for positioning the word cloud
             // Default to be put in the center and has 75% x 80% size.
-             left: "center",
-             top: "center",
+            left: "center",
+            top: "center",
             // right: null,
             // bottom: null,
             // width: "200%",
@@ -195,16 +294,17 @@ export default {
   min-height: 100vh;
   background-size: 100% 100%;
 }
+
 .wordCloudChart {
-    /*图表宽度高度 用来设定图表展示出来的大小 一定要设置*/
-    width: 1000px;
-    height: 1000px;
-    background-size: cover;
-    margin-left: 400px;
-    margin-top: 0px;
-    margin-right: 0;
-    /*margin-right: -10%;*/
-    /*flex: 1;*/
-    /*align-items: center;*/
+  /*图表宽度高度 用来设定图表展示出来的大小 一定要设置*/
+  width: 1000px;
+  height: 1000px;
+  background-size: cover;
+  margin-left: 400px;
+  margin-top: 0px;
+  margin-right: 0;
+  /*margin-right: -10%;*/
+  /*flex: 1;*/
+  /*align-items: center;*/
 }
 </style>

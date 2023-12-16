@@ -87,7 +87,7 @@ to be continued...
 ## Project setup
 
 ```
-npm install
+[download nodejs](https://blog.csdn.net/m0_46698214/article/details/118357180)
 npm install echarts
 npm install echarts-wordcloud@2.0.0
 ```

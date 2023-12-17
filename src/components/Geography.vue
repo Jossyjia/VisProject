@@ -2,15 +2,12 @@ DesignPage.vue
 <template>
     <div class="mybackground"></div>
     <div class="main">
-        
+        <div class="title">
+            <h1>中国</h1><br>
+            <h1>博物馆</h1>
+        </div>
         <div ref="GeographyComponent" class="Geography"></div>
         <div ref="sankeyContainer" class="sankeyContainer"></div>
-        <div class="title">
-            <h1>全国</h1>
-            <h1>博物馆</h1>
-            <h1>分布</h1>
-        </div>
-        
     </div>
 </template>
 
@@ -118,12 +115,12 @@ export default {
             this.$refs.sankeyContainer.style.display = 'block';
         },
         loadSankeyChart(provinceName) {
-            // 显示桑基图容器
-            this.$refs.sankeyContainer.style.display = 'block';
-            // 隐藏地图容器
-            this.$refs.GeographyComponent.style.display = 'none';
-            // 重新初始化桑基图
-            this.createSankeyChart(this.$refs.sankeyContainer, provinceJson[provinceName], provinceName);
+            const data = provinceJson[provinceName];
+            if (data) {
+                this.createSankeyChart(this.$refs.sankeyContainer, data, provinceName);
+            } else {
+                console.log('No Sankey data found for province:', provinceName);
+            }
         },
         createSankeyChart(container, data, provinceName) {
             // 清空容器内容
@@ -131,7 +128,7 @@ export default {
 
             const sankeyChart = echarts.init(container);
             const option = {
-                title: { text: '博物馆等级、类别与是否免费的桑基图： ' + provinceName },
+                title: { text: '博物馆等级、类别与是否免费的桑基图：' + provinceName },
                 tooltip: { trigger: 'item', triggerOn: 'mousemove' },
                 series: [{
                     type: 'sankey',
@@ -213,11 +210,12 @@ export default {
     /*字体大小*/
     font-size: 50px;
     color: rgba(2, 3, 9, 0.6);
+    position: fixed;
     flex: 1;
-    width: 100px;
+    width: 1600px;
     height: 100px;
     margin-top: 100px;
-    margin-left: 100px;
+    margin-left: 1500px;
     z-index: 1;
 }
 

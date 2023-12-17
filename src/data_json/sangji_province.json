@@ -1,0 +1,6928 @@
+{
+    "北京市": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 7
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 28
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 28
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 13
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 13
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 41
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 41
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 12
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 12
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 18
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 17
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 17
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 6
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "天津市": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 10
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 10
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 16
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 19
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 19
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 6
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "河北省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 15
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 15
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 45
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 45
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 21
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 21
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 53
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 53
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 16
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "山西省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 10
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 10
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 6
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 64
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 64
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 21
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 21
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 13
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 13
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 56
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 56
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 10
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "内蒙古自治区": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 11
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 11
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 82
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 82
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 14
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 14
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 41
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 41
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 18
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "辽宁省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 7
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 47
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 47
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 26
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 26
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 8
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 8
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 6
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "吉林省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 54
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 54
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 13
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 13
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 7
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 13
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 13
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 6
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "黑龙江省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 12
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 12
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 82
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 82
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 34
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 34
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 46
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 46
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 18
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "上海市": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 6
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 18
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 33
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 33
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 12
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 12
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 25
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 25
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 9
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 2
+            }
+        ]
+    },
+    "江苏省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 18
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 84
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 84
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 12
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 12
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 73
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 73
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 20
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 20
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 71
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 71
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 20
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 20
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "浙江省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 11
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 11
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 21
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 21
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 61
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 61
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 46
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 46
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 228
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 228
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 8
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 8
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 30
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 30
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "安徽省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 17
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 17
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 76
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 76
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 27
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 27
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 79
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 79
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 8
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 8
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 19
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 19
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "福建省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 18
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 54
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 54
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 34
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 34
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "江西省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 11
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 11
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 21
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 21
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 73
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 73
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 39
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 39
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 21
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "山东省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 16
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 30
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 30
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 81
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 81
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 13
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 13
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 46
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 46
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 7
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 333
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 333
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 16
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 32
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 32
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 7
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 22
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 22
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "河南省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 22
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 22
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 118
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 118
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 18
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 36
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 36
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 134
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 134
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 23
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 23
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "湖北省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 13
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 13
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 71
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 71
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 32
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 32
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 59
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 59
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 29
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 29
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "湖南省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 6
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 18
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 18
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 86
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 86
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 6
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 31
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 31
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 15
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 15
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "广东省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 6
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 24
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 24
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 142
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 142
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 24
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 24
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 108
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 108
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 31
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 31
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "广西壮族自治区": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 8
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 8
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 63
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 63
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 19
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 19
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 15
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 15
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "海南省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 16
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 16
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "重庆市": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 46
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 46
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 23
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 23
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 19
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 19
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 8
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 8
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            }
+        ]
+    },
+    "四川省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 6
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 11
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 11
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 189
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 189
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 11
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 11
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 25
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 25
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 72
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 72
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 9
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 19
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 19
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            }
+        ]
+    },
+    "贵州省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 89
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 89
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 17
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 17
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 15
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 15
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "云南省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 7
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 93
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 93
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 16
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 29
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 29
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 12
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 12
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "西藏自治区": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 6
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 6
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "陕西省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 8
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 8
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 5
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 99
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 99
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 30
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 30
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 39
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 39
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 10
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 10
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 86
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 86
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 12
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 12
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 8
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 8
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            }
+        ]
+    },
+    "甘肃省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 82
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 82
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 7
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 60
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 60
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 41
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 41
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 19
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 19
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "青海省": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 16
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 16
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "宁夏回族自治区": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 19
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 19
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 22
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 22
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 14
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 14
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 4
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 4
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "新疆维吾尔自治区": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 3
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 69
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 69
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 3
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 3
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 5
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 5
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 1
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 7
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 7
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 2
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 9
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 9
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    },
+    "新疆生产建设兵团": {
+        "nodes": [
+            {
+                "name": "一级"
+            },
+            {
+                "name": "文物系统国有博物馆"
+            },
+            {
+                "name": "免费"
+            },
+            {
+                "name": "收费"
+            },
+            {
+                "name": "其他行业国有博物馆"
+            },
+            {
+                "name": "非国有博物馆"
+            },
+            {
+                "name": "二级"
+            },
+            {
+                "name": "三级"
+            },
+            {
+                "name": "未定级"
+            }
+        ],
+        "links": [
+            {
+                "source": "一级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "一级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "免费",
+                "value": 0
+            },
+            {
+                "source": "非国有博物馆",
+                "target": "收费",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 1
+            },
+            {
+                "source": "二级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "二级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 12
+            },
+            {
+                "source": "文物系统国有博物馆",
+                "target": "免费",
+                "value": 12
+            },
+            {
+                "source": "未定级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 2
+            },
+            {
+                "source": "其他行业国有博物馆",
+                "target": "免费",
+                "value": 2
+            },
+            {
+                "source": "未定级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "未定级",
+                "target": "非国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 1
+            },
+            {
+                "source": "三级",
+                "target": "文物系统国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "其他行业国有博物馆",
+                "value": 0
+            },
+            {
+                "source": "三级",
+                "target": "非国有博物馆",
+                "value": 0
+            }
+        ]
+    }
+}

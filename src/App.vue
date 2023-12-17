@@ -3,31 +3,34 @@
         <full-page :options="options" ref="page">
             <div class="section">
                 <div class="slide">
-                    <HomePage PageId="1"/>
+                    <HomePage PageId="1" />
                 </div>
                 <div class="slide">
-                    <RelicsGraph PageId="2"/>
+                    <RelicsGraph PageId="2" />
                 </div>
                 <div class="slide">
-                    <RebuildGraph PageId="3"/>
+                    <RebuildGraph PageId="3" />
                 </div>
                 <div class="slide">
-                    <ColorGraph PageId="4"/>
+                    <ColorGraph PageId="4" />
                 </div>
                 <div class="slide">
-                    <NMGraph PageId="5"/>
+                    <NMGraph PageId="5" />
                 </div>
                 <div class="slide">
-                    <PMGraph PageId="6"/>
+                    <PMGraph PageId="6" />
                 </div>
                 <div class="slide">
-                    <QDGraph PageId="7"/>
+                    <QDGraph PageId="7" />
                 </div>
                 <div class="slide">
-                    <QMGraph PageId="8"/>
+                    <QMGraph PageId="8" />
                 </div>
                 <div class="slide">
-                    <WordCloud PageId="9"/>
+                    <WordCloud PageId="9" />
+                </div>
+                <div class="slide">
+                    <Geography PageId="10" />
                 </div>
             </div>
         </full-page>
@@ -44,15 +47,16 @@ import PMGraph from "@/components/PM.vue";
 import QDGraph from "@/components/QD.vue";
 import QMGraph from "@/components/QM.vue";
 import WordCloud from "@/components/WordCloud.vue";
+import Geography from "@/components/Geography.vue";
 
 export default {
     name: 'App',
     // 注册页面
-    components: {PMGraph, NMGraph, ColorGraph, RelicsGraph, HomePage, RebuildGraph, QDGraph, QMGraph,WordCloud},
+    components: { PMGraph, NMGraph, ColorGraph, RelicsGraph, HomePage, RebuildGraph, QDGraph, QMGraph, WordCloud, Geography },
     data() {
         return {
             options: {
-                credits: {enabled: false, label: '卧龙凤雏小组出品', position: 'right'},
+                credits: { enabled: false, label: '卧龙凤雏小组出品', position: 'right' },
                 //是否使用键盘翻页
                 keyboardScrolling: true,
                 //是否显示导航
